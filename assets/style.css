@@ -1,0 +1,15 @@
+body{
+  background-image: linear-gradient(to right, black, #00ff00);
+}
+#password{
+  color: aqua;
+  width:100%;
+  text-align: center;
+  font-size: 3em;
+}
+h1{
+  text-align: center;
+  color:Red;
+  font-weight: bold;
+  font-size: 3em;
+}
